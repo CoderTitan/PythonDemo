@@ -11,42 +11,32 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/PythonStudy$3_.coverage" NAME="3-各种语句 Coverage Results" MODIFIED="1523618695950" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-基础教程" />
+    <SUITE FILE_PATH="coverage/PythonStudy$5_.coverage" NAME="5-字符串 Coverage Results" MODIFIED="1523954194261" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-基础教程" />
     <SUITE FILE_PATH="coverage/PythonStudy$2_.coverage" NAME="2-基本运算符 Coverage Results" MODIFIED="1523590985995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-基础教程" />
-    <SUITE FILE_PATH="coverage/PythonStudy$1_.coverage" NAME="1-数据类型 Coverage Results" MODIFIED="1523697749807" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-基础教程" />
+    <SUITE FILE_PATH="coverage/PythonStudy$1_.coverage" NAME="1-数据类型 Coverage Results" MODIFIED="1523871738919" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-基础教程" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="PythonStudy" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="1-数据类型.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/1-基础教程/1-数据类型.py">
+      <file leaf-file-name="5-字符串.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/1-基础教程/5-字符串.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-45">
-              <caret line="57" column="20" lean-forward="true" selection-start-line="57" selection-start-column="20" selection-end-line="57" selection-end-column="20" />
+            <state relative-caret-position="634">
+              <caret line="143" column="0" lean-forward="true" selection-start-line="138" selection-start-column="0" selection-end-line="143" selection-end-column="0" />
               <folding>
-                <element signature="e#1479#1830#1" expanded="false" />
-                <element signature="e#1838#2341#1" expanded="false" />
-                <element signature="e#2349#2808#1" expanded="false" />
-                <element signature="e#2816#3437#1" expanded="false" />
-                <element signature="e#3449#4365#1" expanded="false" />
+                <element signature="e#7#419#1" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="math.py" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Library/Caches/PyCharm2017.3/python_stubs/-1199943127/math.py">
+      <file leaf-file-name="builtins.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Library/Caches/PyCharm2017.3/python_stubs/-1199943127/builtins.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4683">
-              <caret line="223" column="9" lean-forward="false" selection-start-line="223" selection-start-column="4" selection-end-line="223" selection-end-column="9" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="random.py" pinned="false" current-in-tab="false">
-        <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/random.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5523">
-              <caret line="271" column="48" lean-forward="false" selection-start-line="271" selection-start-column="48" selection-end-line="271" selection-end-column="48" />
+            <state relative-caret-position="208">
+              <caret line="4917" column="39" lean-forward="false" selection-start-line="4917" selection-start-column="33" selection-end-line="4917" selection-end-column="39" />
               <folding />
             </state>
           </provider>
@@ -72,7 +62,9 @@
         <option value="$PROJECT_DIR$/1-基础教程/基本运算符.py" />
         <option value="$PROJECT_DIR$/1-基础教程/2-基本运算符.py" />
         <option value="$PROJECT_DIR$/1-基础教程/3-各种语句.py" />
+        <option value="$PROJECT_DIR$/1-基础教程/4-Number数字.py" />
         <option value="$PROJECT_DIR$/1-基础教程/1-数据类型.py" />
+        <option value="$PROJECT_DIR$/1-基础教程/5-字符串.py" />
       </list>
     </option>
   </component>
@@ -82,10 +74,10 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="1316" />
-    <option name="y" value="62" />
-    <option name="width" value="1209" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="1297" />
+    <option name="y" value="128" />
+    <option name="width" value="1262" />
     <option name="height" value="1312" />
   </component>
   <component name="ProjectView">
@@ -103,7 +95,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -120,6 +111,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -141,7 +133,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.1-数据类型">
+  <component name="RunManager" selected="Python.5-字符串">
     <configuration name="1-数据类型" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -199,15 +191,36 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <list size="3">
+    <configuration name="5-字符串" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1-基础教程" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PythonStudy" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1-基础教程/5-字符串.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list size="4">
       <item index="0" class="java.lang.String" itemvalue="Python.2-基本运算符" />
       <item index="1" class="java.lang.String" itemvalue="Python.1-数据类型" />
       <item index="2" class="java.lang.String" itemvalue="Python.3-各种语句" />
+      <item index="3" class="java.lang.String" itemvalue="Python.5-字符串" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Python.1-数据类型" />
-        <item index="1" class="java.lang.String" itemvalue="Python.3-各种语句" />
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Python.5-字符串" />
+        <item index="1" class="java.lang.String" itemvalue="Python.1-数据类型" />
+        <item index="2" class="java.lang.String" itemvalue="Python.3-各种语句" />
       </list>
     </recent_temporary>
   </component>
@@ -228,24 +241,23 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1316" y="62" width="1209" height="1312" extended-state="0" />
-    <editor active="true" />
+    <frame x="1297" y="128" width="1262" height="1312" extended-state="1" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4266129" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.41451612" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19023986" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1822504" sideWeight="0.49449036" order="0" side_tool="false" content_ui="combo" />
       <window_info id="R Packages" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="R Graphics" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1822504" sideWeight="0.5055096" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -268,17 +280,20 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/1-基础教程/1-数据类型.py">
+    <entry file="file://$PROJECT_DIR$/1-基础教程/5-字符串.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#1479#1830#1" expanded="false" />
-            <element signature="e#1838#2341#1" expanded="false" />
-            <element signature="e#2349#2808#1" expanded="false" />
-            <element signature="e#2816#3437#1" expanded="false" />
-            <element signature="e#3449#4365#1" expanded="false" />
+            <element signature="e#7#419#1" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1-基础教程/1-数据类型.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -286,7 +301,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4683">
           <caret line="223" column="9" lean-forward="false" selection-start-line="223" selection-start-column="4" selection-end-line="223" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -294,7 +308,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="5523">
           <caret line="271" column="48" lean-forward="false" selection-start-line="271" selection-start-column="48" selection-end-line="271" selection-end-column="48" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -302,13 +315,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#1479#1830#1" expanded="false" />
-            <element signature="e#1838#2341#1" expanded="false" />
-            <element signature="e#2349#2808#1" expanded="false" />
-            <element signature="e#2816#3437#1" expanded="false" />
-            <element signature="e#3449#4365#1" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -316,7 +322,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4683">
           <caret line="223" column="9" lean-forward="false" selection-start-line="223" selection-start-column="4" selection-end-line="223" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -324,7 +329,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="5523">
           <caret line="271" column="48" lean-forward="true" selection-start-line="271" selection-start-column="48" selection-end-line="271" selection-end-column="48" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -332,13 +336,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#1479#1830#1" expanded="false" />
-            <element signature="e#1838#2341#1" expanded="false" />
-            <element signature="e#2349#2808#1" expanded="false" />
-            <element signature="e#2816#3437#1" expanded="false" />
-            <element signature="e#3449#4365#1" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -346,13 +343,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1323">
           <caret line="246" column="16" lean-forward="false" selection-start-line="246" selection-start-column="16" selection-end-line="246" selection-end-column="16" />
-          <folding>
-            <element signature="e#1479#1830#1" expanded="false" />
-            <element signature="e#1838#2341#1" expanded="false" />
-            <element signature="e#2349#2808#1" expanded="false" />
-            <element signature="e#2816#3437#1" expanded="false" />
-            <element signature="e#3449#4365#1" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -367,13 +357,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1323">
           <caret line="246" column="16" lean-forward="false" selection-start-line="246" selection-start-column="16" selection-end-line="246" selection-end-column="16" />
-          <folding>
-            <element signature="e#1479#1830#1" expanded="false" />
-            <element signature="e#1838#2341#1" expanded="false" />
-            <element signature="e#2349#2808#1" expanded="false" />
-            <element signature="e#2816#3437#1" expanded="false" />
-            <element signature="e#3449#4365#1" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -388,13 +371,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#1479#1830#1" expanded="false" />
-            <element signature="e#1838#2341#1" expanded="false" />
-            <element signature="e#2349#2808#1" expanded="false" />
-            <element signature="e#2816#3437#1" expanded="false" />
-            <element signature="e#3449#4365#1" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -409,13 +385,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#1479#1830#1" expanded="false" />
-            <element signature="e#1838#2341#1" expanded="false" />
-            <element signature="e#2349#2808#1" expanded="false" />
-            <element signature="e#2816#3437#1" expanded="false" />
-            <element signature="e#3449#4365#1" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -430,13 +399,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#1479#1830#1" expanded="false" />
-            <element signature="e#1838#2341#1" expanded="false" />
-            <element signature="e#2349#2808#1" expanded="false" />
-            <element signature="e#2816#3437#1" expanded="false" />
-            <element signature="e#3449#4365#1" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -455,18 +417,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2017.3/python_stubs/-1199943127/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="501" column="4" lean-forward="false" selection-start-line="501" selection-start-column="4" selection-end-line="501" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/random.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="5523">
           <caret line="271" column="48" lean-forward="false" selection-start-line="271" selection-start-column="48" selection-end-line="271" selection-end-column="48" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -474,20 +428,37 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4683">
           <caret line="223" column="9" lean-forward="false" selection-start-line="223" selection-start-column="4" selection-end-line="223" selection-end-column="9" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1-基础教程/4-Number数字.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" column="3" lean-forward="false" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/1-基础教程/1-数据类型.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-45">
-          <caret line="57" column="20" lean-forward="true" selection-start-line="57" selection-start-column="20" selection-end-line="57" selection-end-column="20" />
+        <state relative-caret-position="693">
+          <caret line="33" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2017.3/python_stubs/-1199943127/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="4917" column="39" lean-forward="false" selection-start-line="4917" selection-start-column="33" selection-end-line="4917" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1-基础教程/5-字符串.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="634">
+          <caret line="143" column="0" lean-forward="true" selection-start-line="138" selection-start-column="0" selection-end-line="143" selection-end-column="0" />
           <folding>
-            <element signature="e#1479#1830#1" expanded="false" />
-            <element signature="e#1838#2341#1" expanded="false" />
-            <element signature="e#2349#2808#1" expanded="false" />
-            <element signature="e#2816#3437#1" expanded="false" />
-            <element signature="e#3449#4365#1" expanded="false" />
+            <element signature="e#7#419#1" expanded="false" />
           </folding>
         </state>
       </provider>
