@@ -61,7 +61,7 @@ print(file.readline())
 
 file.close()
 
-'''
+
 
 path = r'/Users/quanjunt/Documents/Quanjun/GitHub/PythonDemo/PythonStudy/4-装饰器和文件读写/text.txt'
 
@@ -70,6 +70,25 @@ with open(path, 'rb+') as file:
     print(str)
 file.close()
 
+'''
+
+# 数据持久性模块
+import pickle
+
+myList = [1, 2, 3, 4, 5, 'titan']
+
+path = r'/Users/quanjunt/Documents/Quanjun/GitHub/PythonDemo/PythonStudy/4-装饰器和文件读写/text1.txt'
+# 打开文件
+file = open(path, 'wb')
+# 写入文件
+pickle.dump(myList, file)
+file.close()
 
 
-
+# 读取
+path = r'/Users/quanjunt/Documents/Quanjun/GitHub/PythonDemo/PythonStudy/4-装饰器和文件读写/text1.txt'
+# 打开文件
+file1 = open(path, 'rb')
+tempL = pickle.load(file1)
+print(tempL)
+file1.close()
