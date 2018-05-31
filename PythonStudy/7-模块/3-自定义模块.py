@@ -12,6 +12,7 @@ import time, random, os
 import Titan
 
 Titan.sayBad()
+Titan.sayGood()
 print(Titan.name)
 
 

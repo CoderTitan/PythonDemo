@@ -7,12 +7,18 @@ __name__属性:
 '''
 
 
+import Titan
+
+print(dir(Titan))
+
+print(dir())
+
+sum = 30
+print(dir())
 
 
-
-
-
-
+del sum
+print(dir())
 
 
 

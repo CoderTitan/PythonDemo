@@ -45,6 +45,6 @@ else:
     name = 'titan'
 
 
-
+dir()
 
 
