@@ -1,15 +1,17 @@
 
 # 面向对象
-class Person:
+class Person(object):
     '人类的基类'
 
     empCount = 0
 
-    def __init__(self, name, sex):
+     def __init__(self, name, sex):
         self.name = name
         self.sex = sex
         Person.empCount += 1
 
+    # 注意: 方法的参数必须以self当第一个参数
+    # self代表类的实例(某个对象)
     def displayCount(self):
         print("被调用次数: %d" % Person.empCount)
 
@@ -92,9 +94,9 @@ print(Person.__dict__)
 
 
 # 私有类
-class Dog:
-    '小狗狗'
-
-    __age = 14
-
-    def __init__(self, name):
+# class Dog:
+#     '小狗狗'
+#
+#     __age = 14
+#
+#     def __init__(self, name):
