@@ -11,7 +11,7 @@ class Person(object):
         Person.empCount += 1
 
     # 注意: 方法的参数必须以self当第一个参数
-    # self代表类的实例(某个对象)
+    # self代表类的实例(某个对象), 谁调用这个方法self就代表谁
     def displayCount(self):
         print("被调用次数: %d" % Person.empCount)
 
