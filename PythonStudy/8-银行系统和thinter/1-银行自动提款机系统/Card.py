@@ -6,6 +6,7 @@ class Card(object):
         self.cardID = cardID
         self.passwd = passwd
         self.cardMoney = cardMoney
+        self.cardLock = False
 
 
 

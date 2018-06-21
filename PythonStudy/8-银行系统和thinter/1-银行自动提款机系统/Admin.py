@@ -5,9 +5,9 @@ import time
 
 class Admin(object):
     # 账户
-    admin = "titan"
+    admin = "t"
     # 密码
-    passwd = 'titan'
+    passwd = 't'
 
     # 欢迎页面
     def printWelcomeView(self):

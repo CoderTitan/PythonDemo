@@ -26,7 +26,11 @@
 
 '''
 
+import os
+import time
+import pickle  # 数据持久性模块
 from Admin import Admin
+from ATM import ATM
 
 def main():
     # 欢迎页面
@@ -38,38 +42,54 @@ def main():
         return -1
 
 
+    # 提款机对象
+    # 将当前的系统中的用户信息保存到文件中
+    filePath = os.path.join(os.getcwd(), 'allusers.txt')
+    file = open(filePath, 'rb')
+    allUsers = pickle.load(file)
+    print('******************************')
+    print(allUsers)
+
+
+    # ATM对象
+    atm = ATM(allUsers)
+
+
     while True:
         # 功能页面
         admin.printFunctionView()
+
         # 登陆成功, 等待用户操作
         option = input('请输入您的操作:')
         if option == '1':
-            print('1')
+            atm.creatUser()
         elif option == '2':
-            print('2')
+            atm.searchUserInfo()
         elif option == '3':
-            print('3')
+            atm.getAccountMoney()
         elif option == '4':
-            print('4')
+            atm.saveMoney()
         elif option == '5':
-            print('5')
+            atm.transformAccountMoney()
         elif option == '6':
-            print('6')
+            atm.reviseAccountPassword()
         elif option == '7':
-            print('7')
+            atm.lockAccount()
         elif option == '8':
-            print('8')
+            atm.unlockAccount()
         elif option == '9':
-            print('9')
+            atm.reserAccountCard()
         elif option == '0':
-            print('0')
+            atm.removeAccount()
         elif option == 't':
-            print('t')
+            # 将当前系统中的用户信息保存到文件中
+            file1 = open(filePath, 'wb')
+            pickle.dump(atm.allUsers, file1)
+            file1.close()
 
-
-
-
-
+            time.sleep(2)
+            print('退出成功')
+            return -1
 
 
 

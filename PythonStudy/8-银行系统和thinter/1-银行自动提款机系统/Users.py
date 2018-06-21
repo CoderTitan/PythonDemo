@@ -3,7 +3,7 @@
 class Users(object):
     def __init__(self, name, idCard, phoneNum, card):
         self.name = name
-        self.isCard = idCard
+        self.idCard = idCard
         self.phoneNum = phoneNum
         self.card = card
 
