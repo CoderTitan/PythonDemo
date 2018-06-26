@@ -19,13 +19,16 @@
     <SUITE FILE_PATH="coverage/PythonStudy$Message.coverage" NAME="Message Coverage Results" MODIFIED="1528538656643" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2-对象/8-发短信和邮件" />
     <SUITE FILE_PATH="coverage/PythonStudy$5___name__.coverage" NAME="5-__name__属性 Coverage Results" MODIFIED="1527737185489" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7-模块" />
     <SUITE FILE_PATH="coverage/PythonStudy$1_OS.coverage" NAME="1-OS模块 Coverage Results" MODIFIED="1527066623940" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6-os模块" />
+    <SUITE FILE_PATH="coverage/PythonStudy$16_.coverage" NAME="16-绝对布局 Coverage Results" MODIFIED="1529982316422" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9-Tkinter" />
     <SUITE FILE_PATH="coverage/PythonStudy$Father.coverage" NAME="Father Coverage Results" MODIFIED="1528515018477" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2-对象/6-多继承" />
     <SUITE FILE_PATH="coverage/PythonStudy$6_Checkbutton.coverage" NAME="6-Checkbutton多选框 Coverage Results" MODIFIED="1529579140934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9-Tkinter" />
     <SUITE FILE_PATH="coverage/PythonStudy$2_Label.coverage" NAME="2-Label Coverage Results" MODIFIED="1529559965606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9-Tkinter" />
     <SUITE FILE_PATH="coverage/PythonStudy$ATM.coverage" NAME="ATM系统 Coverage Results" MODIFIED="1529474886125" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8-银行系统和thinter/1-银行自动提款机系统" />
     <SUITE FILE_PATH="coverage/PythonStudy$3_Button.coverage" NAME="3-Button Coverage Results" MODIFIED="1529565028406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9-Tkinter" />
     <SUITE FILE_PATH="coverage/PythonStudy$11_Menu.coverage" NAME="11-Menu菜单 Coverage Results" MODIFIED="1529906851847" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9-Tkinter" />
+    <SUITE FILE_PATH="coverage/PythonStudy$15_.coverage" NAME="15-树状数据 Coverage Results" MODIFIED="1529980756337" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9-Tkinter" />
     <SUITE FILE_PATH="coverage/PythonStudy$5_.coverage" NAME="5-访问限制 Coverage Results" MODIFIED="1528512270417" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2-对象" />
+    <SUITE FILE_PATH="coverage/PythonStudy$18_.coverage" NAME="18-表格布局 Coverage Results" MODIFIED="1529993408444" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9-Tkinter" />
     <SUITE FILE_PATH="coverage/PythonStudy$4_reprstr.coverage" NAME="4-重写repr和str函数 Coverage Results" MODIFIED="1528286147675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2-对象" />
     <SUITE FILE_PATH="coverage/PythonStudy$.coverage" NAME="发邮件 Coverage Results" MODIFIED="1528802694050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2-对象/8-发短信和邮件" />
     <SUITE FILE_PATH="coverage/PythonStudy$3_.coverage" NAME="3-自定义模块 Coverage Results" MODIFIED="1527736522748" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7-模块" />
@@ -36,16 +39,20 @@
     <SUITE FILE_PATH="coverage/PythonStudy$Son.coverage" NAME="Son Coverage Results" MODIFIED="1528515308780" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2-对象/6-多继承" />
     <SUITE FILE_PATH="coverage/PythonStudy$Label.coverage" NAME="Label Coverage Results" MODIFIED="1529547398121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9-Tkinter" />
     <SUITE FILE_PATH="coverage/PythonStudy$6_.coverage" NAME="6-多继承实现 Coverage Results" MODIFIED="1528530703944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2-对象" />
+    <SUITE FILE_PATH="coverage/PythonStudy$17_.coverage" NAME="17-相对布局 Coverage Results" MODIFIED="1529985455923" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9-Tkinter" />
     <SUITE FILE_PATH="coverage/PythonStudy$5_Text.coverage" NAME="5-Text Coverage Results" MODIFIED="1529574302398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9-Tkinter" />
     <SUITE FILE_PATH="coverage/PythonStudy$1_.coverage" NAME="1-面向对象 Coverage Results" MODIFIED="1527925678353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2-对象" />
     <SUITE FILE_PATH="coverage/PythonStudy$8_Listbox.coverage" NAME="8-Listbox Coverage Results" MODIFIED="1529669512064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9-Tkinter" />
     <SUITE FILE_PATH="coverage/PythonStudy$12_Combobox.coverage" NAME="12-Combobox下拉控件 Coverage Results" MODIFIED="1529907812653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9-Tkinter" />
     <SUITE FILE_PATH="coverage/PythonStudy$7_Radiobutton.coverage" NAME="7-Radiobutton单选框 Coverage Results" MODIFIED="1529579237204" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9-Tkinter" />
+    <SUITE FILE_PATH="coverage/PythonStudy$20_.coverage" NAME="20-响应键盘事件 Coverage Results" MODIFIED="1529999657994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9-Tkinter" />
     <SUITE FILE_PATH="coverage/PythonStudy$9_Scale.coverage" NAME="9-Scale拖拽指示器 Coverage Results" MODIFIED="1529671223175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9-Tkinter" />
     <SUITE FILE_PATH="coverage/PythonStudy$Mother.coverage" NAME="Mother Coverage Results" MODIFIED="1528515014588" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2-对象/6-多继承" />
     <SUITE FILE_PATH="coverage/PythonStudy$4_from.coverage" NAME="4-from引入自定义模块 Coverage Results" MODIFIED="1527581646680" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7-模块" />
+    <SUITE FILE_PATH="coverage/PythonStudy$14_.coverage" NAME="14-表格数据 Coverage Results" MODIFIED="1529977901127" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9-Tkinter" />
     <SUITE FILE_PATH="coverage/PythonStudy$Titan.coverage" NAME="Titan Coverage Results" MODIFIED="1527582340314" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7-模块" />
     <SUITE FILE_PATH="coverage/PythonStudy$9_.coverage" NAME="9-日期和时间 Coverage Results" MODIFIED="1526352312630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-基础教程" />
+    <SUITE FILE_PATH="coverage/PythonStudy$19_.coverage" NAME="19-鼠标相关事件操作 Coverage Results" MODIFIED="1529999032564" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9-Tkinter" />
   </component>
   <component name="FavoritesManager">
     <favorites_list name="PythonStudy" />
@@ -61,11 +68,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="13-Frame布局.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/9-Tkinter/13-Frame布局.py">
+      <file leaf-file-name="19-鼠标相关事件操作.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/9-Tkinter/19-鼠标相关事件操作.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="267">
+              <caret line="43" lean-forward="true" selection-start-line="37" selection-end-line="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="20-响应键盘事件.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/9-Tkinter/20-响应键盘事件.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -94,13 +110,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/3-函数/2-递归.py" />
-        <option value="$PROJECT_DIR$/7-模块/2-使用标准库中的模块.py" />
-        <option value="$PROJECT_DIR$/7-模块/4-from引入自定义模块.py" />
-        <option value="$PROJECT_DIR$/7-模块/__name__属性.py" />
-        <option value="$PROJECT_DIR$/6-os模块/Titan.py" />
-        <option value="$PROJECT_DIR$/6-os模块/__init__.py" />
-        <option value="$PROJECT_DIR$/7-模块/__init__.py" />
         <option value="$PROJECT_DIR$/7-模块/b.py" />
         <option value="$PROJECT_DIR$/7-模块/b/Titan.py" />
         <option value="$PROJECT_DIR$/7-模块/a/Titan.py" />
@@ -145,6 +154,13 @@
         <option value="$PROJECT_DIR$/9-Tkinter/11-Menu菜单.py" />
         <option value="$PROJECT_DIR$/9-Tkinter/12-Combobox下拉控件.py" />
         <option value="$PROJECT_DIR$/9-Tkinter/13-Frame布局.py" />
+        <option value="$PROJECT_DIR$/9-Tkinter/14-表格数据.py" />
+        <option value="$PROJECT_DIR$/9-Tkinter/15-树状数据.py" />
+        <option value="$PROJECT_DIR$/9-Tkinter/16-绝对布局.py" />
+        <option value="$PROJECT_DIR$/9-Tkinter/17-相对布局.py" />
+        <option value="$PROJECT_DIR$/9-Tkinter/18-表格布局.py" />
+        <option value="$PROJECT_DIR$/9-Tkinter/19-鼠标相关事件操作.py" />
+        <option value="$PROJECT_DIR$/9-Tkinter/20-响应键盘事件.py" />
       </list>
     </option>
   </component>
@@ -174,6 +190,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -184,18 +201,12 @@
             <path>
               <item name="PythonStudy" type="b2602c69:ProjectViewProjectNode" />
               <item name="PythonStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="7-模块" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PythonStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PythonStudy" type="462c0819:PsiDirectoryNode" />
               <item name="9-Tkinter" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -234,7 +245,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.13-Frame布局">
+  <component name="RunManager" selected="Python.20-响应键盘事件">
     <configuration name="0-代码示例" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -254,7 +265,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="10-Spinbox数值范围" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="16-绝对布局" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -267,13 +278,13 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/9-Tkinter/10-Spinbox数值范围.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/9-Tkinter/16-绝对布局.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="11-Menu菜单" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="17-相对布局" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -286,13 +297,13 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/9-Tkinter/11-Menu菜单.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/9-Tkinter/17-相对布局.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="12-Combobox下拉控件" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="18-表格布局" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -305,13 +316,13 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/9-Tkinter/12-Combobox下拉控件.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/9-Tkinter/18-表格布局.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="13-Frame布局" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="19-鼠标相关事件操作" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -324,7 +335,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/9-Tkinter/13-Frame布局.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/9-Tkinter/19-鼠标相关事件操作.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -406,6 +417,25 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="20-响应键盘事件" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonStudy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/9-Tkinter" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/9-Tkinter/20-响应键盘事件.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="6-Checkbutton多选框" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -420,25 +450,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/9-Tkinter/6-Checkbutton多选框.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="8-Listbox" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PythonStudy" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/9-Tkinter" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/9-Tkinter/8-Listbox.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -484,19 +495,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.2-基本运算符" />
-      <item itemvalue="Python.8-Listbox" />
-      <item itemvalue="Python.10-Spinbox数值范围" />
-      <item itemvalue="Python.11-Menu菜单" />
-      <item itemvalue="Python.12-Combobox下拉控件" />
-      <item itemvalue="Python.13-Frame布局" />
+      <item itemvalue="Python.16-绝对布局" />
+      <item itemvalue="Python.17-相对布局" />
+      <item itemvalue="Python.18-表格布局" />
+      <item itemvalue="Python.19-鼠标相关事件操作" />
+      <item itemvalue="Python.20-响应键盘事件" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.13-Frame布局" />
-        <item itemvalue="Python.12-Combobox下拉控件" />
-        <item itemvalue="Python.11-Menu菜单" />
-        <item itemvalue="Python.10-Spinbox数值范围" />
-        <item itemvalue="Python.8-Listbox" />
+        <item itemvalue="Python.20-响应键盘事件" />
+        <item itemvalue="Python.19-鼠标相关事件操作" />
+        <item itemvalue="Python.18-表格布局" />
+        <item itemvalue="Python.17-相对布局" />
+        <item itemvalue="Python.16-绝对布局" />
       </list>
     </recent_temporary>
   </component>
@@ -522,7 +533,7 @@
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.6596434" weight="0.30900967" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.6596434" visible="true" weight="0.30900967" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4888889" visible="true" weight="0.18153118" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
@@ -531,12 +542,12 @@
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" sideWeight="0.51111114" side_tool="true" weight="0.18153118" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="right" id="R Packages" order="3" />
+      <window_info anchor="right" id="R Graphics" order="3" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" id="R Graphics" order="3" />
+      <window_info anchor="right" id="R Packages" order="3" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32983872" />
@@ -562,56 +573,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/7-模块/b/coder.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/7-模块/2-使用标准库中的模块.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="3" column="10" lean-forward="true" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/7-模块/1-模块概述.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/7-模块/3-自定义模块.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/7-模块/4-from引入自定义模块.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="29">
-          <caret line="13" column="8" lean-forward="true" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/7-模块/5-__name__属性.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/7-模块/6-包.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/7-模块/thumbnail.jpg" />
     <entry file="file://$PROJECT_DIR$/2-对象/3-析构函数.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="273">
@@ -814,13 +775,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/tkinter/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="2827" column="29" selection-start-line="2827" selection-start-column="29" selection-end-line="2827" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/9-Tkinter/10-Spinbox数值范围.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="418">
@@ -853,16 +807,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="741">
           <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
-          <folding>
-            <element signature="e#6#27#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/9-Tkinter/1-window主窗口.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" selection-start-line="1" selection-end-line="17" />
         </state>
       </provider>
     </entry>
@@ -875,8 +819,84 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/9-Tkinter/13-Frame布局.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="285">
+          <caret line="15" column="20" lean-forward="true" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9-Tkinter/14-表格数据.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" lean-forward="true" selection-end-line="18" />
+          <folding>
+            <element signature="e#6#27#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/tkinter/ttk.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="1324" column="8" selection-start-line="1324" selection-start-column="8" selection-end-line="1324" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9-Tkinter/15-树状数据.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="e#6#27#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/tkinter/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="2182" column="4" selection-start-line="2182" selection-start-column="4" selection-end-line="2182" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9-Tkinter/16-绝对布局.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" lean-forward="true" selection-start-line="14" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9-Tkinter/17-相对布局.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="722">
+          <caret line="38" lean-forward="true" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9-Tkinter/18-表格布局.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="26" column="23" lean-forward="true" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9-Tkinter/1-window主窗口.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" selection-start-line="1" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9-Tkinter/19-鼠标相关事件操作.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="43" lean-forward="true" selection-start-line="37" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9-Tkinter/20-响应键盘事件.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
         </state>
       </provider>
     </entry>
