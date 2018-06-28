@@ -4,6 +4,7 @@
 # 操作图像
 from PIL import Image, ImageFilter
 
+
 # 打开一个jpg图像文件，注意是当前路径:
 im = Image.open('titan.jpg')
 
