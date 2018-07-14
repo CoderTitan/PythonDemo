@@ -19,6 +19,7 @@ print(round(90.09, 1))
 print(math.sqrt(4))
 
 
+print('----------------')
 # 随机数函数
 import random
 
@@ -31,13 +32,28 @@ print(random.choice("titanjun"))
 print(random.randrange(10, 100, 3))
 
 # 随机生成的一个实数，它在[0,1)范围内
-print(random.random())
+print("random:", random.random())
 
 # 改变随机数生成器的种子, 可生成同一个随机数
 random.seed(5)
 print(random.random())
 random.seed()
 print(random.random())
+
+print('--------')
+
+# 随机生成指定范围[a,b]的整数
+print(random.randint(1, 6))
+
+# 随机生成指定范围[a,b)的整数
+print(random.randrange(2, 8))
+
+# 随机生成指定范围[a,b)的指定步长的数
+print(random.randrange(1, 10, 3))
+
+# 随机生成指定序列中的指定个数的元素(返回列表)
+print(random.sample('titanjun', 4))
+
 
 # 将序列的所有元素随机排序
 list1 = [1, 2, 3, 4]
@@ -47,6 +63,17 @@ print(list1)
 # 随机生成下一个实数
 # 随机生成一个在该范围内的实数
 print(random.uniform(2, 5))
+
+
+# 随机生成6位验证码
+print('---随机验证码---')
+checkCode = ''
+for i in range(6):
+    temp = random.randint(0, 9)
+    checkCode += str(temp)
+print("6位随机验证码:", checkCode)
+
+print('------')
 
 
 import math

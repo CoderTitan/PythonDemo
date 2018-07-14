@@ -14,7 +14,7 @@
     <SUITE FILE_PATH="coverage/PythonStudy$1_window.coverage" NAME="1-window主窗口 Coverage Results" MODIFIED="1529483273191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9-Tkinter" />
     <SUITE FILE_PATH="coverage/PythonStudy$13_Frame.coverage" NAME="13-Frame布局 Coverage Results" MODIFIED="1529914301632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9-Tkinter" />
     <SUITE FILE_PATH="coverage/PythonStudy$7_.coverage" NAME="7-安装第三方模块 Coverage Results" MODIFIED="1530062909018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7-模块" />
-    <SUITE FILE_PATH="coverage/PythonStudy$1_OS.coverage" NAME="1-OS模块 Coverage Results" MODIFIED="1527066623940" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6-os模块" />
+    <SUITE FILE_PATH="coverage/PythonStudy$1_OS.coverage" NAME="1-OS模块 Coverage Results" MODIFIED="1531568249340" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6-模块练习" />
     <SUITE FILE_PATH="coverage/PythonStudy$Father.coverage" NAME="Father Coverage Results" MODIFIED="1528515018477" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2-对象/6-多继承" />
     <SUITE FILE_PATH="coverage/PythonStudy$6_Checkbutton.coverage" NAME="6-Checkbutton多选框 Coverage Results" MODIFIED="1529579140934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9-Tkinter" />
     <SUITE FILE_PATH="coverage/PythonStudy$treeFile.coverage" NAME="treeFile Coverage Results" MODIFIED="1530067298719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9-Tkinter/21-树状目录层级" />
@@ -34,9 +34,11 @@
     <SUITE FILE_PATH="coverage/PythonStudy$1_.coverage" NAME="1-高阶函数 Coverage Results" MODIFIED="1530173608522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11-Python高阶函数" />
     <SUITE FILE_PATH="coverage/PythonStudy$12_Combobox.coverage" NAME="12-Combobox下拉控件 Coverage Results" MODIFIED="1529907812653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9-Tkinter" />
     <SUITE FILE_PATH="coverage/PythonStudy$20_.coverage" NAME="20-响应键盘事件 Coverage Results" MODIFIED="1529999657994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9-Tkinter" />
+    <SUITE FILE_PATH="coverage/PythonStudy$server.coverage" NAME="server Coverage Results" MODIFIED="1531294368163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/13-网络编程/1-TCP编程" />
     <SUITE FILE_PATH="coverage/PythonStudy$9_Scale.coverage" NAME="9-Scale拖拽指示器 Coverage Results" MODIFIED="1529671223175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9-Tkinter" />
     <SUITE FILE_PATH="coverage/PythonStudy$4_from.coverage" NAME="4-from引入自定义模块 Coverage Results" MODIFIED="1527581646680" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7-模块" />
     <SUITE FILE_PATH="coverage/PythonStudy$14_.coverage" NAME="14-表格数据 Coverage Results" MODIFIED="1529977901127" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9-Tkinter" />
+    <SUITE FILE_PATH="coverage/PythonStudy$client.coverage" NAME="client Coverage Results" MODIFIED="1531294373461" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/13-网络编程/1-TCP编程" />
     <SUITE FILE_PATH="coverage/PythonStudy$2__.coverage" NAME="2-通用装饰器' Coverage Results" MODIFIED="1526460173389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4-装饰器和文件读写" />
     <SUITE FILE_PATH="coverage/PythonStudy$2_.coverage" NAME="2-爬取到的网页直接写入文件 Coverage Results" MODIFIED="1530696141466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12-爬虫和json/1-爬虫" />
     <SUITE FILE_PATH="coverage/PythonStudy$1_urllib.coverage" NAME="1-urllib爬去网页 Coverage Results" MODIFIED="1530694941636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12-爬虫和json/1-爬虫" />
@@ -44,6 +46,7 @@
     <SUITE FILE_PATH="coverage/PythonStudy$5___name__.coverage" NAME="5-__name__属性 Coverage Results" MODIFIED="1527737185489" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7-模块" />
     <SUITE FILE_PATH="coverage/PythonStudy$2_csv.coverage" NAME="2-写csv文件 Coverage Results" MODIFIED="1530069003855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10-读取文件和自动化办公/1-读取csv文件" />
     <SUITE FILE_PATH="coverage/PythonStudy$16_.coverage" NAME="16-绝对布局 Coverage Results" MODIFIED="1529982316422" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9-Tkinter" />
+    <SUITE FILE_PATH="coverage/PythonStudy$1___.coverage" NAME="1-客户端(新浪) Coverage Results" MODIFIED="1531277920326" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/13-网络编程/1-TCP编程" />
     <SUITE FILE_PATH="coverage/PythonStudy$2_Label.coverage" NAME="2-Label Coverage Results" MODIFIED="1529559965606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9-Tkinter" />
     <SUITE FILE_PATH="coverage/PythonStudy$5_.coverage" NAME="5-百科数据 Coverage Results" MODIFIED="1530935011361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12-爬虫和json/1-爬虫" />
     <SUITE FILE_PATH="coverage/PythonStudy$4_reprstr.coverage" NAME="4-重写repr和str函数 Coverage Results" MODIFIED="1528286147675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2-对象" />
@@ -52,11 +55,13 @@
     <SUITE FILE_PATH="coverage/PythonStudy$0_pdf__1_.coverage" NAME="0-读取pdf文件 (1) Coverage Results" MODIFIED="1530085875458" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10-读取文件和自动化办公/2-读取PDF文件" />
     <SUITE FILE_PATH="coverage/PythonStudy$4_Ajax.coverage" NAME="4-Ajax数据 Coverage Results" MODIFIED="1530934655701" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12-爬虫和json/1-爬虫" />
     <SUITE FILE_PATH="coverage/PythonStudy$Label.coverage" NAME="Label Coverage Results" MODIFIED="1529547398121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9-Tkinter" />
-    <SUITE FILE_PATH="coverage/PythonStudy$6_.coverage" NAME="6-多继承实现 Coverage Results" MODIFIED="1528530703944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2-对象" />
+    <SUITE FILE_PATH="coverage/PythonStudy$6_.coverage" NAME="6-爬取图片 Coverage Results" MODIFIED="1531194463551" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12-爬虫和json/1-爬虫" />
     <SUITE FILE_PATH="coverage/PythonStudy$5_Text.coverage" NAME="5-Text Coverage Results" MODIFIED="1529574302398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9-Tkinter" />
     <SUITE FILE_PATH="coverage/PythonStudy$8_Listbox.coverage" NAME="8-Listbox Coverage Results" MODIFIED="1529669512064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9-Tkinter" />
     <SUITE FILE_PATH="coverage/PythonStudy$7_Radiobutton.coverage" NAME="7-Radiobutton单选框 Coverage Results" MODIFIED="1529579237204" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9-Tkinter" />
     <SUITE FILE_PATH="coverage/PythonStudy$Mother.coverage" NAME="Mother Coverage Results" MODIFIED="1528515014588" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2-对象/6-多继承" />
+    <SUITE FILE_PATH="coverage/PythonStudy$7_QQ.coverage" NAME="7-爬取QQ号 Coverage Results" MODIFIED="1531205986282" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12-爬虫和json/1-爬虫" />
+    <SUITE FILE_PATH="coverage/PythonStudy$4_Number.coverage" NAME="4-Number数字 Coverage Results" MODIFIED="1531570656082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-基础教程" />
     <SUITE FILE_PATH="coverage/PythonStudy$Titan.coverage" NAME="Titan Coverage Results" MODIFIED="1527582340314" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7-模块" />
     <SUITE FILE_PATH="coverage/PythonStudy$9_.coverage" NAME="9-日期和时间 Coverage Results" MODIFIED="1526352312630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-基础教程" />
     <SUITE FILE_PATH="coverage/PythonStudy$19_.coverage" NAME="19-鼠标相关事件操作 Coverage Results" MODIFIED="1529999032564" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9-Tkinter" />
@@ -65,57 +70,7 @@
     <favorites_list name="PythonStudy" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="2-爬取到的网页直接写入文件.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/12-爬虫和json/1-爬虫/2-爬取到的网页直接写入文件.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="100" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="100" />
-              <folding>
-                <element signature="e#295#316#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="3-请求方式.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/12-爬虫和json/1-爬虫/3-请求方式.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1057">
-              <caret line="107" column="29" selection-start-line="107" selection-start-column="29" selection-end-line="107" selection-end-column="29" />
-              <folding>
-                <element signature="e#1#292#1" />
-                <element signature="e#294#498#1" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="4-Ajax数据.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/12-爬虫和json/1-爬虫/4-Ajax数据.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" column="46" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="46" />
-              <folding>
-                <element signature="e#1#22#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="5-百科数据.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/12-爬虫和json/1-爬虫/5-百科数据.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="874">
-              <caret line="44" column="31" selection-start-line="44" selection-start-column="31" selection-end-line="44" selection-end-column="31" />
-              <folding>
-                <element signature="e#1#22#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -135,20 +90,14 @@
       <find>getMoney</find>
       <find>checkPassword</find>
       <find>listdir</find>
+      <find>toPath</find>
+      <find>randint</find>
+      <find>islink</find>
     </findStrings>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/2-对象/6-多继承/Son.py" />
-        <option value="$PROJECT_DIR$/2-对象/6-多继承实现.py" />
-        <option value="$PROJECT_DIR$/2-对象/6-多继承/6-多继承实现.py" />
-        <option value="$PROJECT_DIR$/2-对象/7-对象属性和类属性/对象属性和类属性.py" />
-        <option value="$PROJECT_DIR$/2-对象/8-发短信和邮件/Message.py" />
-        <option value="$PROJECT_DIR$/2-对象/8-发短信和邮件/发邮件.py" />
-        <option value="$PROJECT_DIR$/8-银行系统和thinter/1-银行自动提款机系统/card.py" />
-        <option value="$PROJECT_DIR$/8-银行系统和thinter/1-银行自动提款机系统/admin.py" />
-        <option value="$PROJECT_DIR$/8-银行系统和thinter/1-银行自动提款机系统/Card.py" />
         <option value="$PROJECT_DIR$/8-银行系统和thinter/1-银行自动提款机系统/Admin.py" />
         <option value="$PROJECT_DIR$/8-银行系统和thinter/1-银行自动提款机系统/Users.py" />
         <option value="$PROJECT_DIR$/8-银行系统和thinter/1-银行自动提款机系统/ATM.py" />
@@ -191,6 +140,15 @@
         <option value="$PROJECT_DIR$/12-爬虫和json/1-爬虫/3-请求方式.py" />
         <option value="$PROJECT_DIR$/12-爬虫和json/1-爬虫/4-Ajax数据.py" />
         <option value="$PROJECT_DIR$/12-爬虫和json/1-爬虫/5-百科数据.py" />
+        <option value="$PROJECT_DIR$/12-爬虫和json/1-爬虫/6-爬取图片.py" />
+        <option value="$PROJECT_DIR$/12-爬虫和json/1-爬虫/7-爬取QQ号.py" />
+        <option value="$PROJECT_DIR$/13-网络编程/1-TCP编程/1-客户端(新浪).py" />
+        <option value="$PROJECT_DIR$/13-网络编程/1-TCP编程/client.py" />
+        <option value="$PROJECT_DIR$/13-网络编程/1-TCP编程/server.py" />
+        <option value="$PROJECT_DIR$/13-网络编程/2-UDP编程/client.py" />
+        <option value="$PROJECT_DIR$/13-网络编程/2-UDP编程/server.py" />
+        <option value="$PROJECT_DIR$/6-模块练习/1-OS模块.py" />
+        <option value="$PROJECT_DIR$/1-基础教程/4-Number数字.py" />
       </list>
     </option>
   </component>
@@ -210,17 +168,16 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1374" />
+    <option name="x" value="1243" />
     <option name="y" value="23" />
-    <option name="width" value="1175" />
-    <option name="height" value="1330" />
+    <option name="width" value="1317" />
+    <option name="height" value="1416" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -231,18 +188,40 @@
             <path>
               <item name="PythonStudy" type="b2602c69:ProjectViewProjectNode" />
               <item name="PythonStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="12-爬虫和json" type="462c0819:PsiDirectoryNode" />
+              <item name="1-基础教程" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="PythonStudy" type="b2602c69:ProjectViewProjectNode" />
               <item name="PythonStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="12-爬虫和json" type="462c0819:PsiDirectoryNode" />
-              <item name="1-爬虫" type="462c0819:PsiDirectoryNode" />
+              <item name="2-对象" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="6-模块练习" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="13-网络编程" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="13-网络编程" type="462c0819:PsiDirectoryNode" />
+              <item name="1-TCP编程" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="13-网络编程" type="462c0819:PsiDirectoryNode" />
+              <item name="2-UDP编程" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -282,8 +261,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.5-百科数据">
-    <configuration name="1-高阶函数" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.4-Number数字">
+    <configuration name="1-OS模块" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -291,18 +270,18 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/11-Python高阶函数" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6-模块练习" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11-Python高阶函数/1-高阶函数.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6-模块练习/1-OS模块.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="1-urllib爬去网页" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="1-客户端(新浪)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -310,12 +289,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/12-爬虫和json/1-爬虫" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/13-网络编程/1-TCP编程" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12-爬虫和json/1-爬虫/1-urllib爬去网页.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/13-网络编程/1-TCP编程/1-客户端(新浪).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -435,7 +414,26 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="3-请求方式" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="4-Number数字" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonStudy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1-基础教程" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1-基础教程/4-Number数字.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="6-爬取图片" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -448,13 +446,13 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12-爬虫和json/1-爬虫/3-请求方式.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12-爬虫和json/1-爬虫/6-爬取图片.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="4-Ajax数据" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="7-爬取QQ号" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -467,13 +465,13 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12-爬虫和json/1-爬虫/4-Ajax数据.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12-爬虫和json/1-爬虫/7-爬取QQ号.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="5-百科数据" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="client" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -481,18 +479,18 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/12-爬虫和json/1-爬虫" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/13-网络编程/1-TCP编程" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12-爬虫和json/1-爬虫/5-百科数据.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/13-网络编程/1-TCP编程/client.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="6-Checkbutton多选框" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="server" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -500,31 +498,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/9-Tkinter" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/13-网络编程/1-TCP编程" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/9-Tkinter/6-Checkbutton多选框.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="9-Scale拖拽指示器" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PythonStudy" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/9-Tkinter" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/9-Tkinter/9-Scale拖拽指示器.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/13-网络编程/1-TCP编程/server.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -532,19 +511,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.2-基本运算符" />
-      <item itemvalue="Python.1-高阶函数" />
-      <item itemvalue="Python.1-urllib爬去网页" />
-      <item itemvalue="Python.3-请求方式" />
-      <item itemvalue="Python.4-Ajax数据" />
-      <item itemvalue="Python.5-百科数据" />
+      <item itemvalue="Python.7-爬取QQ号" />
+      <item itemvalue="Python.server" />
+      <item itemvalue="Python.client" />
+      <item itemvalue="Python.1-OS模块" />
+      <item itemvalue="Python.4-Number数字" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.5-百科数据" />
-        <item itemvalue="Python.4-Ajax数据" />
-        <item itemvalue="Python.3-请求方式" />
-        <item itemvalue="Python.1-urllib爬去网页" />
-        <item itemvalue="Python.1-高阶函数" />
+        <item itemvalue="Python.4-Number数字" />
+        <item itemvalue="Python.1-OS模块" />
+        <item itemvalue="Python.client" />
+        <item itemvalue="Python.server" />
+        <item itemvalue="Python.7-爬取QQ号" />
       </list>
     </recent_temporary>
   </component>
@@ -562,23 +541,22 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1374" y="23" width="1175" height="1330" extended-state="0" />
-    <editor active="true" />
+    <frame x="1243" y="23" width="1317" height="1416" extended-state="0" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.34035656" side_tool="true" weight="0.31152415" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.6596434" weight="0.37659237" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.6596434" weight="0.366617" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4888889" visible="true" weight="0.19574468" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4888889" visible="true" weight="0.17463933" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" sideWeight="0.51111114" side_tool="true" weight="0.18153118" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39940387" />
       <window_info anchor="right" id="R Graphics" order="3" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -587,7 +565,7 @@
       <window_info anchor="right" id="R Packages" order="3" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32983872" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32935917" />
       <window_info anchor="bottom" id="Concurrent Activities Diagram" order="8" weight="0.32983872" />
     </layout>
   </component>
@@ -610,120 +588,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/9-Tkinter/0-代码示例.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="22" lean-forward="true" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/7-模块/titan.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/7-模块/Titan.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="833">
-          <caret line="47" column="5" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/7-模块/jun1.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/9-Tkinter/Icon.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/9-Tkinter/5-Text.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="520">
-          <caret line="90" column="8" lean-forward="true" selection-start-line="90" selection-start-column="8" selection-end-line="90" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/9-Tkinter/6-Checkbutton多选框.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="11" lean-forward="true" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/9-Tkinter/7-Radiobutton单选框.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/9-Tkinter/10-Spinbox数值范围.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="22" column="15" lean-forward="true" selection-start-line="22" selection-start-column="15" selection-end-line="22" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/9-Tkinter/9-Scale拖拽指示器.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/9-Tkinter/8-Listbox.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="106" column="4" lean-forward="true" selection-start-line="106" selection-start-column="4" selection-end-line="106" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/9-Tkinter/11-Menu菜单.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="491">
-          <caret line="71" column="16" lean-forward="true" selection-start-line="71" selection-start-column="16" selection-end-line="71" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/9-Tkinter/12-Combobox下拉控件.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="741">
-          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/tkinter/constants.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
-          <caret line="29" selection-start-line="29" selection-end-line="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/9-Tkinter/13-Frame布局.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="20" lean-forward="true" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/9-Tkinter/14-表格数据.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" lean-forward="true" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/tkinter/ttk.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="301">
-          <caret line="1324" column="8" selection-start-line="1324" selection-start-column="8" selection-end-line="1324" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/tkinter/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
-          <caret line="2182" column="4" selection-start-line="2182" selection-start-column="4" selection-end-line="2182" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/9-Tkinter/16-绝对布局.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="361">
@@ -780,13 +644,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
           <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/6-os模块/1-OS模块.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-589">
-          <caret line="48" column="16" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="16" />
         </state>
       </provider>
     </entry>
@@ -888,49 +745,129 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/12-爬虫和json/1-爬虫/2-爬取到的网页直接写入文件.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="100" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="100" />
-          <folding>
-            <element signature="e#295#316#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/12-爬虫和json/File/write.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/12-爬虫和json/1-爬虫/3-请求方式.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1057">
+        <state relative-caret-position="1596">
           <caret line="107" column="29" selection-start-line="107" selection-start-column="29" selection-end-line="107" selection-end-column="29" />
-          <folding>
-            <element signature="e#1#292#1" />
-            <element signature="e#294#498#1" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/12-爬虫和json/1-爬虫/4-Ajax数据.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="46" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="46" />
-          <folding>
-            <element signature="e#1#22#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="152">
+          <caret line="10" column="46" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="46" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/12-爬虫和json/1-爬虫/5-百科数据.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="874">
+        <state relative-caret-position="855">
           <caret line="44" column="31" selection-start-line="44" selection-start-column="31" selection-end-line="44" selection-end-column="31" />
-          <folding>
-            <element signature="e#1#22#0" expanded="true" />
-          </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12-爬虫和json/File/picture.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12-爬虫和json/1-爬虫/6-爬取图片.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="27" column="34" lean-forward="true" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12-爬虫和json/File/qq1.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12-爬虫和json/File/qq2.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12-爬虫和json/1-爬虫/7-爬取QQ号.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="530">
+          <caret line="74" column="22" selection-start-line="74" selection-start-column="16" selection-end-line="74" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12-爬虫和json/1-爬虫/2-爬取到的网页直接写入文件.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-242">
+          <caret line="18" column="7" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/socket.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2963" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/13-网络编程/1-TCP编程/1-客户端(新浪).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/13-网络编程/1-TCP编程/client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/13-网络编程/2-UDP编程/client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="62" selection-start-line="7" selection-start-column="62" selection-end-line="7" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/13-网络编程/1-TCP编程/server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="34" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7-模块/1-模块概述.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7-模块/2-使用标准库中的模块.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7-模块/3-自定义模块.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/13-网络编程/2-UDP编程/server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6-os模块/1-OS模块.py" />
+    <entry file="file://$PROJECT_DIR$/1-基础教程/4-Number数字.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="817">
+          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6-模块练习/1-OS模块.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="90" column="60" lean-forward="true" selection-start-line="90" selection-start-column="60" selection-end-line="90" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1-基础教程/8-字典.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1-基础教程/9-日期和时间.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
