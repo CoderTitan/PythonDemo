@@ -1,0 +1,71 @@
+(cid:5324)(cid:1365)
+
+(cid:1246)(cid:821)(cid:1355)(cid:1293)(cid:3598)MongoDB ?
+
+1(cid:821)MongoDB (cid:3598)(cid:4775)C++(cid:6605)(cid:6522)(cid:5547)(cid:1631)(cid:4913)(cid:1157)(cid:3598)(cid:1246)(cid:1275)(cid:2330)(cid:1325)(cid:1683)(cid:2802)(cid:2903)(cid:3528)(cid:1391)(cid:2562)(cid:1561)(cid:4913)(cid:2895)(cid:4320)(cid:3524)(cid:3357)(cid:2858)(cid:5422)(cid:5497)(cid:822)(cid:2241)(cid:7771)(cid:6702)(cid:6905)(cid:4913)(cid:3096)(cid:1645)(cid:1253)(cid:1157)(cid:4274)(cid:1746)(cid:3653)
+(cid:2394)(cid:4913)(cid:5907)(cid:4457)(cid:1157)(cid:1890)(cid:1382)(cid:1499)(cid:6564)(cid:3664)(cid:1747)(cid:2191)(cid:3028)(cid:5766)(cid:822)
+2(cid:821)MongoDB (cid:3568)(cid:2241)(cid:1285)WEB(cid:2859)(cid:4768)(cid:3401)(cid:1472)(cid:1890)(cid:3224)(cid:2688)(cid:4913)(cid:7771)(cid:3028)(cid:5766)(cid:3524)(cid:3357)(cid:2562)(cid:1561)(cid:6516)(cid:1644)(cid:3548)(cid:3804)(cid:822)
+
+3(cid:821)MongoDB (cid:2649)(cid:3524)(cid:3357)(cid:2562)(cid:1561)(cid:1285)(cid:1246)(cid:1275)(cid:3528)(cid:3817)(cid:1157)(cid:3524)(cid:3357)(cid:5486)(cid:3717)(cid:4775)(cid:7339)(cid:1536)(key=>value)(cid:2642)(cid:5471)(cid:3182)(cid:822)MongoDB (cid:3528)(cid:3817)(cid:5380)(cid:1426)(cid:1325) JSON (cid:2642)
+
+(cid:6685)(cid:822)(cid:2561)(cid:4007)(cid:1536)(cid:1890)(cid:1382)(cid:1777)(cid:1932)(cid:1612)(cid:1372)(cid:3528)(cid:3817)(cid:1157)(cid:3524)(cid:5471)(cid:1866)(cid:3528)(cid:3817)(cid:3524)(cid:5471)(cid:822)
+(cid:1323)(cid:821)(cid:1286)(cid:6493)(cid:4569)(cid:4457)
+1(cid:821)MongoDB(cid:4913)(cid:3401)(cid:1472)(cid:1319)(cid:1246)(cid:1275)(cid:7566)(cid:1915)(cid:3528)(cid:3817)(cid:2562)(cid:1561)(cid:1157)(cid:2330)(cid:3676)(cid:4913)(cid:3023)(cid:6816)(cid:2666)(cid:3598)(cid:2649)(cid:1851)(cid:3702)“(cid:6408)”(cid:4913)(cid:3895)(cid:2999)(cid:3352)(cid:3182)(cid:3653)(cid:1746)(cid:4430)(cid:4186)(cid:4913)“(cid:3528)(cid:3817)”(cid:3932)(cid:2291)(cid:822)(cid:1246)(cid:3701)
+(cid:6549)(cid:2927)(cid:1890)(cid:1382)(cid:6418)(cid:5135)(cid:7563)(cid:2825)(cid:2388)(cid:3685)(cid:4913)(cid:2678)(cid:3962)(cid:1609)(cid:5422)(cid:822)
+2(cid:821)Mongo(cid:3498)(cid:3310)(cid:1279)(cid:2628)(cid:4913)(cid:3761)(cid:6595)(cid:6418)(cid:6945)(cid:2903)(cid:822)(cid:3761)(cid:6595)(cid:3312)(cid:1381)(cid:1461)(cid:4768)JSON(cid:2933)(cid:2903)(cid:4913)(cid:3773)(cid:6549)(cid:1157)(cid:1890)(cid:6903)(cid:3587)(cid:3761)(cid:6595)(cid:3528)(cid:3817)(cid:1278)(cid:1622)(cid:2765)(cid:4913)(cid:2642)(cid:6685)(cid:1866)(cid:3524)(cid:5471)(cid:822)
+3(cid:821)(cid:7563)(cid:2825)(cid:2619)(cid:3587)(cid:3224)(cid:2688)(cid:822)(cid:7566)(cid:2642)(cid:3524)(cid:3357)(cid:7169)(cid:4913)(cid:1255)(cid:3545)(cid:1252)(cid:4240)(cid:1157)(cid:6999)(cid:2825)(cid:3661)(cid:1271)(cid:5183)(cid:3548)(cid:3804)(cid:1157)(cid:1246)(cid:5183)(cid:3598)(cid:6715)(cid:1315)(cid:3653)(cid:2437)(cid:4913)(cid:5085)(cid:1391)(cid:1157)(cid:1702)(cid:1246)(cid:5183)(cid:3598)(cid:1683)(cid:3520)(cid:3524)(cid:3357)(cid:1157)(cid:6960)(cid:6408)
+(cid:1683)(cid:2802)(cid:2903)(cid:4913)(cid:3224)(cid:2688)(cid:1157)(cid:1721)(cid:5647)(cid:3661)(cid:4979)(cid:7563)(cid:2825)(cid:2399)(cid:4913)(cid:5580)(cid:4457)(cid:1157)(cid:2217) (cid:1285)(cid:5085)(cid:1391)(cid:6999)(cid:2825)(cid:3598)(cid:3661)(cid:4564)(cid:4696)(cid:3716)(cid:7476)(cid:4913)(cid:1157)(cid:2926)(cid:6945)(cid:1705)(cid:3716)(cid:7476)(cid:1382)(cid:1912)(cid:1157)(cid:2386)(cid:4696)(cid:5766)(cid:1742)(cid:2666)(cid:1255)(cid:1890)(cid:5766)(cid:1626)
+(cid:6960)(cid:6408)(cid:3224)(cid:2688)(cid:1319)(cid:822)(cid:3205)(cid:1382)(cid:2892)(cid:6547)(cid:4913)(cid:3548)(cid:2903)(cid:3598)(cid:1461)(cid:4768)(cid:7518)(cid:5613)(cid:6960)(cid:6408)(cid:3224)(cid:2688)(cid:822)MongoDB(cid:3205)(cid:7163)(cid:4768)(cid:4913)(cid:7566)(cid:1915)(cid:3528)(cid:3817)(cid:4913)(cid:3524)(cid:3357)(cid:3932) (cid:2291)(cid:1461)(cid:1612)(cid:1890)(cid:1382)(cid:5844)(cid:1750)(cid:2241)(cid:2394)
+(cid:1891)(cid:3664)(cid:1747)(cid:2191)(cid:1295)(cid:7413)(cid:1683)(cid:1734)(cid:3524)(cid:3357)(cid:822)(cid:2585)(cid:6958)(cid:1890)(cid:1382)(cid:2840)(cid:6413)(cid:7518)(cid:5613)(cid:4913)(cid:3524)(cid:3357)(cid:1982)(cid:6702)(cid:6905)(cid:1157)(cid:5844)(cid:1750)(cid:7167)(cid:3373)(cid:3528)(cid:3817)(cid:822)
+
+4(cid:821)MongoDB(cid:3498)(cid:3310)(cid:1905)(cid:5183)(cid:5547)(cid:5205)(cid:6605)(cid:6522):RUBY(cid:1157)PYTHON(cid:1157)JAVA(cid:1157)C++(cid:1157)PHP(cid:1157)C#(cid:5301)(cid:2394)(cid:5183)(cid:6605)(cid:6522)(cid:822)
+
+5(cid:821)(cid:1279)(cid:2628)(cid:4913)(cid:1745)(cid:5766)(cid:822)(cid:1777)(cid:3297)(cid:5425)(cid:2906)(cid:821)(cid:2562)(cid:1561)JavaScript(cid:821)(cid:5688)(cid:1907)(cid:821)(cid:2228)(cid:2599)(cid:7518)(cid:1907)(cid:821)(cid:3528)(cid:1391)(cid:2562)(cid:1561)(cid:5301)(cid:822)
+6(cid:821)(cid:3548)(cid:1486)(cid:4913)(cid:5333)(cid:4696)(cid:1157)(cid:7483)(cid:1319)(cid:1936)(cid:1750)(cid:3524)(cid:3357)(cid:2858)(cid:3664)(cid:1747)(cid:2191)(cid:1295)(cid:2392)(cid:1157)(cid:1662)(cid:1298)(cid:4108)(cid:3661)(cid:1355)(cid:1293)(cid:2976)(cid:6493)(cid:4913)(cid:5333)(cid:4696)(cid:3481)(cid:1442)(cid:822)(cid:5333)(cid:4696)(cid:7518)(cid:5613)(cid:1885)(cid:7537)(cid:6493)(cid:5027)(cid:7026)(cid:3661)(cid:3547)(cid:2368)(cid:1746)(cid:4913)(cid:5907)
+(cid:4457)(cid:1157)(cid:2666)(cid:1407)(cid:5844)(cid:1750)(cid:7518)(cid:3182)(cid:1982)(cid:7112)(cid:5597)(cid:3547)(cid:5907)(cid:4457)(cid:822)
+
+Mac
+
+brew install mongodb
+npm  install  mongodb
+http://blog.sina.com.cn/s/blog_7c8dc2d50101lwka.html
+
+(cid:2241)(cid:3748)(cid:1275)(cid:4943)(cid:1253)(cid:1696)(cid:2892)(cid:1246)(cid:1275)(cid:2590)(cid:6448)(cid:4947)(cid:2927)(cid:1157)(cid:2649)(cid:80)(cid:82)(cid:81)(cid:74)(cid:82)(cid:71)(cid:69)(cid:2590)(cid:6448)(cid:1777)(cid:3505)(cid:1705)(cid:6598)(cid:4947)(cid:2927)(cid:1253)
+
+(cid:1868)(cid:1675)(cid:2590)(cid:6448)
+
+(cid:2590)(cid:6448)
+
+Windows
+
+(cid:4457)(cid:1675)Next
+
+(cid:1910)(cid:3130)(cid:3701)(cid:3971)(cid:1721)(cid:1774)(cid:6988)(cid:1157)(cid:1626)(cid:4457)(cid:1675)(cid:49)(cid:72)(cid:91)(cid:87)
+
+(cid:4457)(cid:1675)(cid:38)(cid:88)(cid:86)(cid:87)(cid:82)(cid:80)
+
+(cid:4457)(cid:1675)(cid:37)(cid:85)(cid:82)(cid:90)(cid:86)(cid:72)(cid:17)(cid:17)(cid:17)
+
+(cid:6988)(cid:3296)(cid:1696)(cid:2892)(cid:4913)(cid:2590)(cid:6448)(cid:4947)(cid:2927)(cid:1157)(cid:1626)(cid:4457)(cid:1675)(cid:50)(cid:46)
+
+(cid:4457)(cid:1675)Next
+
+(cid:4457)(cid:1675)Install
+
+(cid:4457)(cid:1675)Finish
+
+(cid:1246)(cid:1275)mongodb(cid:1278)(cid:1890)(cid:1382)(cid:2892)(cid:5256)(cid:2394)(cid:1275)(cid:3524)(cid:3357)(cid:2858)
+MongoDB(cid:4913)(cid:1812)(cid:1275)(cid:2603)(cid:1466)(cid:1890)(cid:1382)(cid:2619)(cid:5457)(cid:2394)(cid:1275)(cid:4607)(cid:5256)(cid:4913)(cid:3524)(cid:3357)(cid:2858)(cid:1157)(cid:4015)(cid:1246)(cid:1275)(cid:7095)
+(cid:3661)(cid:5844)(cid:2793)(cid:4913)(cid:7518)(cid:1907)(cid:1982)(cid:3686)(cid:7476)(cid:1157)(cid:1255)(cid:1910)(cid:4913)(cid:3524)(cid:3357)(cid:2858)(cid:1310)(cid:3505)(cid:5597)(cid:2241)(cid:1255)(cid:1910)(cid:4913)(cid:3528)(cid:1391)(cid:1278)
+(cid:1255)(cid:5766)(cid:3598)(cid:5230)(cid:2561)(cid:5287)(cid:1280)(cid:1153)””)
+(cid:1255)(cid:2961)(cid:1932)(cid:3661)’ ‘(cid:1153)(cid:5230)(cid:3794))(cid:821).(cid:821)$(cid:821)/(cid:821)
+
+(cid:3524)(cid:3357)(cid:2858)(cid:1310)(cid:6999)(cid:6950)(cid:1911)(cid:2561)(cid:3702)(cid:3773)(cid:6569)(cid:822)(cid:3524)(cid:3357)(cid:2858)(cid:1911)(cid:1890)
+(cid:1382)(cid:3598)(cid:4351)(cid:6787)(cid:1382)(cid:1253)(cid:3701)(cid:1391)(cid:4913)(cid:1393)(cid:3130)UTF-8(cid:2561)(cid:5287)(cid:1280)
+
+(cid:3524)(cid:3357)(cid:2858)
+
+(cid:3895)(cid:2999)
+
+(cid:48)(cid:82)(cid:81)(cid:74)(cid:82)(cid:39)(cid:37)
+

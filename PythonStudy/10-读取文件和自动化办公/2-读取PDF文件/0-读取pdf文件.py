@@ -53,6 +53,6 @@ def readPDF(path, toPath):
 
 
 
-path = r"/Users/quanjunt/Documents/Quanjun/GitHub/PythonDemo/PythonStudy/10-读取文件和自动化办公/2-读取PDF文件/技术站点汇集.pdf"
-toPath = r"/Users/quanjunt/Documents/Quanjun/GitHub/PythonDemo/PythonStudy/10-读取文件和自动化办公/2-读取PDF文件/12.txt"
+path = r"/Users/quanjunt/Downloads/MongoDB1.pdf"
+toPath = r"/Users/quanjunt/Documents/Quanjun/GitHub/PythonDemo/PythonStudy/10-读取文件和自动化办公/2-读取PDF文件/13.txt"
 readPDF(path, toPath)
