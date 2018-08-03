@@ -17,7 +17,7 @@
     <SUITE FILE_PATH="coverage/PythonStudy$1_window.coverage" NAME="1-window主窗口 Coverage Results" MODIFIED="1529483273191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9-Tkinter" />
     <SUITE FILE_PATH="coverage/PythonStudy$13_Frame.coverage" NAME="13-Frame布局 Coverage Results" MODIFIED="1529914301632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9-Tkinter" />
     <SUITE FILE_PATH="coverage/PythonStudy$7_.coverage" NAME="7-定时线程 Coverage Results" MODIFIED="1531969847274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/14-进程线程协程/2-线程" />
-    <SUITE FILE_PATH="coverage/PythonStudy$1_OS.coverage" NAME="1-OS模块 Coverage Results" MODIFIED="1531568249340" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6-模块练习" />
+    <SUITE FILE_PATH="coverage/PythonStudy$1_OS.coverage" NAME="1-OS模块 Coverage Results" MODIFIED="1532577378416" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6-模块练习" />
     <SUITE FILE_PATH="coverage/PythonStudy$Father.coverage" NAME="Father Coverage Results" MODIFIED="1528515018477" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2-对象/6-多继承" />
     <SUITE FILE_PATH="coverage/PythonStudy$6_Checkbutton.coverage" NAME="6-Checkbutton多选框 Coverage Results" MODIFIED="1529579140934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9-Tkinter" />
     <SUITE FILE_PATH="coverage/PythonStudy$treeFile.coverage" NAME="treeFile Coverage Results" MODIFIED="1530067298719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9-Tkinter/21-树状目录层级" />
@@ -45,7 +45,7 @@
     <SUITE FILE_PATH="coverage/PythonStudy$14_.coverage" NAME="14-表格数据 Coverage Results" MODIFIED="1529977901127" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9-Tkinter" />
     <SUITE FILE_PATH="coverage/PythonStudy$client.coverage" NAME="client Coverage Results" MODIFIED="1531294373461" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/13-网络编程/1-TCP编程" />
     <SUITE FILE_PATH="coverage/PythonStudy$2__.coverage" NAME="2-通用装饰器' Coverage Results" MODIFIED="1526460173389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4-装饰器和文件读写" />
-    <SUITE FILE_PATH="coverage/PythonStudy$2_.coverage" NAME="2-查询文档 Coverage Results" MODIFIED="1532335192728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/16-MongoDB" />
+    <SUITE FILE_PATH="coverage/PythonStudy$2_.coverage" NAME="2-修改文件名 Coverage Results" MODIFIED="1532593239689" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6-模块练习" />
     <SUITE FILE_PATH="coverage/PythonStudy$1_urllib.coverage" NAME="1-urllib爬去网页 Coverage Results" MODIFIED="1530694941636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12-爬虫和json/1-爬虫" />
     <SUITE FILE_PATH="coverage/PythonStudy$Message.coverage" NAME="Message Coverage Results" MODIFIED="1528538656643" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2-对象/8-发短信和邮件" />
     <SUITE FILE_PATH="coverage/PythonStudy$5___name__.coverage" NAME="5-__name__属性 Coverage Results" MODIFIED="1527737185489" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7-模块" />
@@ -78,20 +78,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="1-redis和python及哦啊胡.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/17-Redis交互/1-redis和python及哦啊胡.py">
+      <file leaf-file-name="1-OS模块.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/6-模块练习/1-OS模块.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+            <state relative-caret-position="336">
+              <caret line="95" column="39" selection-start-line="95" selection-start-column="16" selection-end-line="95" selection-end-column="39" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="titanRedis.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/17-Redis交互/titanRedis.py">
+      <file leaf-file-name="2-修改文件名.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/6-模块练习/2-修改文件名.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="8" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+            <state relative-caret-position="456">
+              <caret line="23" column="12" lean-forward="true" selection-start-line="23" selection-start-column="12" selection-end-line="23" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -124,7 +124,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/9-Tkinter/21-树状目录层级/treeFile.py" />
         <option value="$PROJECT_DIR$/9-Tkinter/21-树状目录层级/infoWindows.py" />
         <option value="$PROJECT_DIR$/10-读取文件和自动化办公/1-读取csv文件/2-写csv文件.py" />
         <option value="$PROJECT_DIR$/10-读取文件和自动化办公/1-读取csv文件/1-读csv文件.py" />
@@ -175,6 +174,7 @@
         <option value="$PROJECT_DIR$/16-MongoDB/2-查询文档.py" />
         <option value="$PROJECT_DIR$/17-Redis交互/1-redis和python及哦啊胡.py" />
         <option value="$PROJECT_DIR$/17-Redis交互/titanRedis.py" />
+        <option value="$PROJECT_DIR$/6-模块练习/2-修改文件名.py" />
       </list>
     </option>
   </component>
@@ -210,6 +210,11 @@
             <path>
               <item name="PythonStudy" type="b2602c69:ProjectViewProjectNode" />
               <item name="PythonStudy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="6-模块练习" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="PythonStudy" type="b2602c69:ProjectViewProjectNode" />
@@ -260,8 +265,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.1-redis和python及哦啊胡">
-    <configuration name="0-读取pdf文件" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.2-修改文件名">
+    <configuration name="1-OS模块" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -269,31 +274,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/10-读取文件和自动化办公/2-读取PDF文件" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6-模块练习" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10-读取文件和自动化办公/2-读取PDF文件/0-读取pdf文件.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="1-添加文档" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PythonStudy" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/16-MongoDB" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/16-MongoDB/1-添加文档.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6-模块练习/1-OS模块.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -332,6 +318,44 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1-基础教程/2-基本运算符.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="2-修改文件名" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonStudy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6-模块练习" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6-模块练习/2-修改文件名.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="2-修改文件名" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonStudy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6-模块练习" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6-模块练习/2-修改文件名.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -510,19 +534,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.2-基本运算符" />
-      <item itemvalue="Python.1-添加文档" />
       <item itemvalue="Python.3-更新文档" />
       <item itemvalue="Python.4-删除文档" />
-      <item itemvalue="Python.0-读取pdf文件" />
       <item itemvalue="Python.1-redis和python及哦啊胡" />
+      <item itemvalue="Python.1-OS模块" />
+      <item itemvalue="Python.2-修改文件名" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.2-修改文件名" />
+        <item itemvalue="Python.1-OS模块" />
         <item itemvalue="Python.1-redis和python及哦啊胡" />
         <item itemvalue="Python.4-删除文档" />
         <item itemvalue="Python.3-更新文档" />
-        <item itemvalue="Python.1-添加文档" />
-        <item itemvalue="Python.0-读取pdf文件" />
       </list>
     </recent_temporary>
   </component>
@@ -546,17 +570,17 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.34035656" side_tool="true" weight="0.31152415" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.6596434" weight="0.366617" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.6596434" weight="0.366617" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4888889" visible="true" weight="0.18196203" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4888889" visible="true" weight="0.18196203" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" sideWeight="0.51111114" side_tool="true" weight="0.18153118" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39940387" />
+      <window_info id="Favorites" order="2" sideWeight="0.51111114" side_tool="true" weight="0.18153118" />
       <window_info anchor="right" id="R Graphics" order="3" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -588,20 +612,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/13-网络编程/1-TCP编程/client.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/13-网络编程/2-UDP编程/client.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="62" selection-start-line="7" selection-start-column="62" selection-end-line="7" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/13-网络编程/1-TCP编程/server.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
@@ -630,13 +640,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="817">
           <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/6-模块练习/1-OS模块.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="131">
-          <caret line="90" column="60" lean-forward="true" selection-start-line="90" selection-start-column="60" selection-end-line="90" selection-end-column="60" />
         </state>
       </provider>
     </entry>
@@ -871,9 +874,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="475">
           <caret line="26" column="69" selection-start-line="26" selection-start-column="69" selection-end-line="26" selection-end-column="69" />
-          <folding>
-            <element signature="e#1#32#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -902,23 +902,41 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="117">
           <caret line="62" lean-forward="true" selection-start-line="62" selection-end-line="62" />
-          <folding>
-            <element signature="e#2#16#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/17-Redis交互/1-redis和python及哦啊胡.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="418">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/17-Redis交互/titanRedis.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
-          <caret line="7" column="8" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.1/python_stubs/1891916255/posix.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="792" column="4" selection-start-line="792" selection-start-column="4" selection-end-line="792" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6-模块练习/1-OS模块.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="95" column="39" selection-start-line="95" selection-start-column="16" selection-end-line="95" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6-模块练习/2-修改文件名.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="23" column="12" lean-forward="true" selection-start-line="23" selection-start-column="12" selection-end-line="23" selection-end-column="12" />
         </state>
       </provider>
     </entry>
